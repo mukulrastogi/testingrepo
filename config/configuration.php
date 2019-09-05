@@ -1,3 +1,3 @@
-<?php define("TEST_VALUE")="test"; ?>
+<?php define("TEST_VALUE_NEW")="test"; ?>
 
 
